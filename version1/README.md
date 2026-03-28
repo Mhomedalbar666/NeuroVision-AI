@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Overview
-**NeuroVision AI (Version 1)** is a medical imaging system designed to detect brain tumors باستخدام تقنيات التعلم العميق (Deep Learning).
+**NeuroVision AI (Version 1)** is a medical imaging system designed to detect brain tumors  (Deep Learning).
 
 The system analyzes brain MRI images and provides:
 - Tumor classification  
